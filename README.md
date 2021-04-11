@@ -1,2 +1,2 @@
 # KYCDATA_BANK
-This bot will download the file given link in Assest, orchestator The file has KYC Information data of bank and then Upoad through the Insert the Data in SQL Server 2019 Database from Datatable. If the Assest data is Updated it will complete the Excution directly
+This bot will download the file from given link in Assest, orchestator The file has KYC Information data of bank and then the data is Uploaded to SQL Server 2019 Database from Datatable. If the Assest, orchestrator data same as the file data then the process is directly Executed and it is Completed.
